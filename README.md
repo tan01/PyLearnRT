@@ -1,1 +1,5 @@
 # PyLearnRT
+
+Dependencies
+	- PySide
+	- PyOpenGL
